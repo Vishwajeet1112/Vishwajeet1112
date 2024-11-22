@@ -1,9 +1,13 @@
+![logo](https://github.com/Vishwajeet1112/Vishwajeet1112/blob/main/Blue%20Photo%20Bold%20Geometric%20IT%20Technology%20Profile%20LinkedIn%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm VISHWAJIT KUAMR</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet1112&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet1112" /> </p>
+<img align="right" alt="coding" width="400" src="https://64.media.tumblr.com/1eb66336e95d4f36f1713f5113a3689b/cd265649d5c353e8-59/s540x810/fb61952a5d9fa604890e3688f416ee14dd639a2e.gif">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeet1112" alt="vishwajeet1112" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwajeet1112&label=Profile%20views&color=0e75b6&style=flat" alt="vishwajeet1112" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwajeet1112" alt="vishwajeet1112" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
